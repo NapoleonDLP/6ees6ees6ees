@@ -14,4 +14,5 @@ constructor () {
 eat () {
   return `Mmmmmmmmm ${this.food}`
 }
+
 };
