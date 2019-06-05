@@ -19,5 +19,4 @@ constructor (age, color) {
 // an eat method that is inherited from grub
   //inherited no need to do anything
 
-
 }
