@@ -1,3 +1,3 @@
 class Bee {
   // TODO..
-};
+}
